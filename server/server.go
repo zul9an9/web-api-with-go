@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hyperyuri/webapi-with-go/server/routes"
+	"github.com/zul9an9/webapi-with-go/server/routes"
 )
 
 type Server struct {

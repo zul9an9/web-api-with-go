@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"log"
 	"time"
-
-	"github.com/hyperyuri/webapi-with-go/database/migrations"
+	"github.com/zul9an9/webapi-with-go/database/migrations"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
