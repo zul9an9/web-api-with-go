@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/hyperyuri/webapi-with-go/controllers"
+	"github.com/zul9an9/webapi-with-go/controllers"
 )
 
 func ConfigRoutes(router *gin.Engine) *gin.Engine {

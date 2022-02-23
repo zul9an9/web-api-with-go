@@ -1,4 +1,4 @@
-module github.com/hyperyuri/webapi-with-go
+module github.com/zul9an9/webapi-with-go
 
 go 1.16
 
