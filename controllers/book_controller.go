@@ -4,8 +4,8 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hyperyuri/webapi-with-go/database"
-	"github.com/hyperyuri/webapi-with-go/models"
+	"github.com/zul9an9/webapi-with-go/database"
+	"github.com/zul9an9/webapi-with-go/models"
 )
 
 func ShowAllBooks(c *gin.Context) {

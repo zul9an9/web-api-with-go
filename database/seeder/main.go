@@ -7,8 +7,7 @@ import (
 	"os"
 	"path/filepath"
 	"runtime"
-
-	"github.com/hyperyuri/webapi-with-go/database"
+	"github.com/zul9an9/webapi-with-go/database"
 )
 
 func main() {

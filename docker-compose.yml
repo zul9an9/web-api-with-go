@@ -4,7 +4,7 @@ services:
   db:
     build:
       context: .
-      dockerfile: .dockerfile
+      dockerfile: .dockerfilezuz
     image: github.com/zul9an9/webapi-db:v1
     container_name: webapi-mvc-db
     restart: unless-stopped
